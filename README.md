@@ -13,7 +13,10 @@
 ## Screenshot of CDN with showing origin and endpoint host names
 ![Screen Shot 2023-11-08 at 17 59 26](https://github.com/chebbin/flask_5_tailwind/assets/141374142/2e9caf54-267e-4981-94c2-63ffce51c401)
 
-## Screenshot showing that the app is running on the cdn platform
+## Screenshot from google cloud shell showing the website in the linux environment
+![Screen Shot 2023-11-08 at 22 12 25](https://github.com/chebbin/flask_5_tailwind/assets/141374142/ed7c7071-74b3-4fa0-b2be-a8a19e1dce9c)
+
+## Screenshots showing that the app is running on the cdn platform
 ### This one shows the .jpg picture
 ![Screen Shot 2023-11-08 at 22 01 22](https://github.com/chebbin/flask_5_tailwind/assets/141374142/fba34f12-5d88-45e1-acd9-a13dd65d48e2)
 
