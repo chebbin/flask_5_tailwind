@@ -27,3 +27,7 @@
 #### I don't know why this is how it worked, and I don't know how to fix it so that it is embedded. 
 #### I did both the picture and the movie to make sure I was doing it correctly.
 
+#### 11/9- As per our conversation, the formatting of the movie did not allow it to embed in the website
+#### correctly. Rather than using a .mov file an .mp4 file needed to be used. We agreed that I would not need to go
+#### through the steps again as I had already stopped the CDN. Thank you!
+
