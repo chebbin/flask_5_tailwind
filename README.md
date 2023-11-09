@@ -13,3 +13,14 @@
 ## Screenshot of CDN with showing origin and endpoint host names
 ![Screen Shot 2023-11-08 at 17 59 26](https://github.com/chebbin/flask_5_tailwind/assets/141374142/2e9caf54-267e-4981-94c2-63ffce51c401)
 
+## Screenshot showing that the app is running on the cdn platform
+### This one shows the .jpg picture
+![Screen Shot 2023-11-08 at 22 01 22](https://github.com/chebbin/flask_5_tailwind/assets/141374142/fba34f12-5d88-45e1-acd9-a13dd65d48e2)
+
+### This one shows the .mov movie
+![Screen Shot 2023-11-08 at 22 00 14](https://github.com/chebbin/flask_5_tailwind/assets/141374142/99d7deef-2147-4559-a6ad-362c129d938c)
+
+#### However, the movie is not embedded in the website. If you click on the small icon that says image, you can open it in another tab.
+#### I don't know why this is how it worked, and I don't know how to fix it so that it is embedded. 
+#### I did both the picture and the movie to make sure I was doing it correctly.
+
